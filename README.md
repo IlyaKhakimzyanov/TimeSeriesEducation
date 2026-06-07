@@ -6,6 +6,8 @@
 
 Показания метрик и структура для pipeline [only_models.ipynb](only_models.ipynb) / [only_models.html](only_models.html)
 
+Есть в формате .pdf - [GDrive](https://drive.google.com/drive/folders/1I6rD5B3Pn-8jW6jm9Ets6Jr9adsLoUCc?usp=sharing)
+
 ## Датасет
 Описание - [A multi-source dataset of urban life in the city of Milan and the Province of Trentino](https://www.nature.com/articles/sdata201555)
 
