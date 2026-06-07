@@ -1,11 +1,17 @@
-# Итоговое задание
+Автор: Хакимзянов Илья РИМ-150903
+
+# [Итоговое задание](https://github.com/MVRonkin/TimeSeriesCourse)
+
+Основная работа происходила в файле [main_code.ipynb](main_code.ipynb) / [main_code.html](main_code.html)
+
+Показания метрик и структура для pipeline [only_models.ipynb](only_models.ipynb) / [only_models.html](only_models.html)
 
 ## Датасет
 Описание - [A multi-source dataset of urban life in the city of Milan and the Province of Trentino](https://www.nature.com/articles/sdata201555)
 
 Файлы оригинал (Trentino - TN) - [Telecommunications - SMS, Call, Internet - TN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QLCABU)
 
-Файлы на GDrive -
+Файлы на GDrive - [GDrive](https://drive.google.com/drive/folders/1I6rD5B3Pn-8jW6jm9Ets6Jr9adsLoUCc?usp=sharing)
 
 <details>
 <summary>Занимаемый объем</summary>
